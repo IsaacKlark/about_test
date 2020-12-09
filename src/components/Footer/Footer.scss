@@ -4,7 +4,8 @@ footer {
     margin: 0 auto;
     padding: 0 112px 104px;
     background-color: white;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 .instagram {
@@ -20,11 +21,18 @@ footer {
 
 .footerColumnsWrapper {
     margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
     max-width: 1121px;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
     padding-right: 38px;
 }
 
@@ -83,6 +91,34 @@ footer {
         border-bottom: 1px solid #6C514B;
         margin-bottom: 24px;
         padding-left: 0;
+    }
+
+    &__input::-webkit-input-placeholder {
+        color: #6C514B;
+        font-family: 'Lato', sans-serif;
+        font-size: 15px;
+        line-height: 14px;
+    }
+
+    &__input::-moz-placeholder {
+        color: #6C514B;
+        font-family: 'Lato', sans-serif;
+        font-size: 15px;
+        line-height: 14px;
+    }
+
+    &__input:-ms-input-placeholder {
+        color: #6C514B;
+        font-family: 'Lato', sans-serif;
+        font-size: 15px;
+        line-height: 14px;
+    }
+
+    &__input::-ms-input-placeholder {
+        color: #6C514B;
+        font-family: 'Lato', sans-serif;
+        font-size: 15px;
+        line-height: 14px;
     }
 
     &__input::placeholder {

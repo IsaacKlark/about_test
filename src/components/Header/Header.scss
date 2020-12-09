@@ -7,10 +7,13 @@ header {
 }
 
 .headerTop {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     width: 100%;
     padding: 23px 112px;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 
     &__side {
         max-width: 736px;
@@ -19,6 +22,8 @@ header {
 
     &__list {
         width: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
         list-style: none;
         padding: 0;
@@ -33,7 +38,9 @@ header {
     }
 
     &__leftList {
-        justify-content: flex-end;
+        -webkit-box-pack: end;
+            -ms-flex-pack: end;
+                justify-content: flex-end;
     }
 
     &__link {
@@ -83,4 +90,3 @@ header {
     font-family: 'Lato', sans-serif;
     text-align: center;
 }
-
