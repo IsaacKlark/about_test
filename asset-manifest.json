@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/about_test/static/css/main.5edfce86.chunk.css",
+    "main.js": "/about_test/static/js/main.7edd2a9e.chunk.js",
+    "main.js.map": "/about_test/static/js/main.7edd2a9e.chunk.js.map",
+    "runtime-main.js": "/about_test/static/js/runtime-main.78f145c9.js",
+    "runtime-main.js.map": "/about_test/static/js/runtime-main.78f145c9.js.map",
+    "static/js/2.da3129ff.chunk.js": "/about_test/static/js/2.da3129ff.chunk.js",
+    "static/js/2.da3129ff.chunk.js.map": "/about_test/static/js/2.da3129ff.chunk.js.map",
+    "static/js/3.56d0932b.chunk.js": "/about_test/static/js/3.56d0932b.chunk.js",
+    "static/js/3.56d0932b.chunk.js.map": "/about_test/static/js/3.56d0932b.chunk.js.map",
+    "index.html": "/about_test/index.html",
+    "static/css/main.5edfce86.chunk.css.map": "/about_test/static/css/main.5edfce86.chunk.css.map",
+    "static/js/2.da3129ff.chunk.js.LICENSE.txt": "/about_test/static/js/2.da3129ff.chunk.js.LICENSE.txt",
+    "static/media/arrow.ccd95151.svg": "/about_test/static/media/arrow.ccd95151.svg",
+    "static/media/About.scss": "/about_test/static/media/contact.d50bafe4.svg",
+    "static/media/facebook.b8a7f49f.svg": "/about_test/static/media/facebook.b8a7f49f.svg",
+    "static/media/img1.c426042d.png": "/about_test/static/media/img1.c426042d.png",
+    "static/media/img2.24849885.png": "/about_test/static/media/img2.24849885.png",
+    "static/media/img3.16da3d7d.jpg": "/about_test/static/media/img3.16da3d7d.jpg",
+    "static/media/img4.48722626.jpg": "/about_test/static/media/img4.48722626.jpg",
+    "static/media/img5.994a5fba.png": "/about_test/static/media/img5.994a5fba.png",
+    "static/media/img_middle.64a1b924.jpg": "/about_test/static/media/img_middle.64a1b924.jpg",
+    "static/media/instagram.eb0afd0a.svg": "/about_test/static/media/instagram.eb0afd0a.svg",
+    "static/media/logo.2732357b.svg": "/about_test/static/media/logo.2732357b.svg",
+    "static/media/logo_footer.4a0e16d3.svg": "/about_test/static/media/logo_footer.4a0e16d3.svg",
+    "static/media/logo_middle.4389bd1a.svg": "/about_test/static/media/logo_middle.4389bd1a.svg",
+    "static/media/Header.scss": "/about_test/static/media/top_image.facb5013.jpg",
+    "static/media/twitter.eb0afd0a.svg": "/about_test/static/media/twitter.eb0afd0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78f145c9.js",
+    "static/js/2.da3129ff.chunk.js",
+    "static/css/main.5edfce86.chunk.css",
+    "static/js/main.7edd2a9e.chunk.js"
+  ]
+}
